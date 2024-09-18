@@ -6,7 +6,7 @@ Simple calculator I made long ago during my classes. Built with HTML, CSS, and J
 - Addition, subtraction, multiplication, and division
 - Simple UI
 
-## Usage
+## How to use
 
 1. Clone the repository:
    ```sh
@@ -14,4 +14,5 @@ Simple calculator I made long ago during my classes. Built with HTML, CSS, and J
    ```
 2. Open `index.html` in a web browser to use the calculator.
 
+(or you can just download the zip and open `index.html` in the browser)
 ## That's all. :) 
